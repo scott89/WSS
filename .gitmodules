@@ -1,0 +1,3 @@
+[submodule "caffe-cvpr17"]
+	path = caffe-cvpr17
+	url = https://github.com/wanglijun1989/caffe-cvpr17.git
