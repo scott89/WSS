@@ -12,7 +12,7 @@ WSS is a weakly-supervised saliency detection method with fully convolutional ne
  * Cuda enabled GPUs
 
 * Installation: 
- 1. Clone from github via: git clone --recursive https://github.com/scott89/WSS.git
+ 1. Clone from github via: ```git clone --recursive https://github.com/scott89/WSS.git```
  1. Install caffe-cvpr17: caffe-cvpr17 is our home-brewed version of the original caffe. Change directory into ./caffe-cvpr17 and compile the source code and the matlab interface following the [installation instruction of caffe](http://caffe.berkeleyvision.org/installation.html).
  2. Download the trained caffe model from https://pan.baidu.com/s/1gfxSbSJ, and put both the caffemodel and prototxt files under the ./model directory.
  3. Run the demo code test_sal.m. The predicted saliency maps are saved in the sal_res directory.
