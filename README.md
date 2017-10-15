@@ -19,12 +19,12 @@ WSS is a weakly-supervised saliency detection method with fully convolutional ne
 
 * Training:
 
-If you are interested in the training code, you can find the pre-released version at the following two repositories:
+	If you are interested in the training code, you can find the pre-released version at the following two repositories:	
+    https://github.com/wanglijun1989/caffe-cvpr17 \
+	   https://github.com/wanglijun1989/gt-estimation-cvpr17
 
-https://github.com/wanglijun1989/caffe-cvpr17
-https://github.com/wanglijun1989/gt-estimation-cvpr17
+	However, this version is currently not well documented. A more friendly and easier to use version will be relased in the near future.
 
-However, this version is currently not well documented. A more friendly and easier to use version will be relased in the near future.
 
 ### Citing Our Work
 
@@ -36,9 +36,6 @@ If you find WSS useful in your research, please consider to cite our paper:
            booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
            year = {2017}
         }
-
-### Contact
-If you find any bugs in our code, please contact wlj@mail.dlut.edu.cn
 
 ### Liscense
 
