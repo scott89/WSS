@@ -1,7 +1,7 @@
 ## Learning to Detect Salient Objects with Image-level Supervision
 
 ### Introduction
-WSS is a weakly-supervised saliency detection methods with fully convolutional neural networks. This package contains the source code to reproduce the experimental results of WSS reported in our [CVPR 2017 paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Learning_to_Detect_CVPR_2017_paper.pdf). The source code is mainly written in MATLAB using the Caffe MATLAB wrapper.
+WSS is a weakly-supervised saliency detection method with fully convolutional neural networks. This package contains the source code to reproduce the experimental results of WSS reported in our [CVPR 2017 paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Learning_to_Detect_CVPR_2017_paper.pdf). The source code is mainly written in MATLAB with the Caffe MATLAB wrapper.
 
 ### Usage
 
